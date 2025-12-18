@@ -1,0 +1,9 @@
+* cl-enumeration
+
+Enumeration library for Common Lisp.
+
+|---------+-----------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-enumeration/enumerations.git |
+| commit  | d563f91                                                         |
+| systems | cl-enumeration                                                  |
+|---------+-----------------------------------------------------------------|
